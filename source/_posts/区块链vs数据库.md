@@ -12,9 +12,7 @@ tags:
 
 现在我们来谈谈数据库。像区块链一样，现代数据库可以存储历史和以前版本的数据。数据库比区块链更有效率。区块链的重要区别在于建立信任和出处。数据库被设计为访问对象的当前状态，并且它的历史可以被轻易擦除。区块链虽然缓慢笨重，却是不变的。数据库通常由中央主管部门管理，所有参与数据库的人员都表现出对中央当局诚实交易的信任。没有必要证明数据集以前的版本，因为各方都相信中央当局公平管理，而不是偏向一方。
 
---- 
-此处应该添加图片
----
+![why-use-blockchain](why-use-blockchain.png)
 
 如果存储或共享数据方之间缺乏信任，则可以考虑使用区块链。 区块链和传统数据库之间的这些区别将有助于确定哪种更适合您的用例：
 
@@ -29,4 +27,4 @@ tags:
 
 **如果你需要保密和性能，数据库可能是你最合适的。**
 
-[原文](https://www.factom.com/university/tracks/fundamentals/blockchain-vs-database)
+[原文 Blockchain vs Database](https://www.factom.com/university/tracks/fundamentals/blockchain-vs-database)
