@@ -4,6 +4,9 @@ date: 2018-05-09 15:09:35
 tags:
   - 跨平台
 ---
+# electron-starter
+我已经将集成好的工程上传到[electron-starter](https://github.com/Cody1988/electron-stater)了，可以去github下载直接使用。
+
 # `electron` 工程搭建
 `electron`官网有一个很不错的`first app`[开始文档](https://electron.org.cn/demo.html)，可以从这里开始。
 首先创建一个文件夹`electron-starter`，作为工程目录，然后初始化工程
