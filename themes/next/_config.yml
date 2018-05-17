@@ -331,19 +331,19 @@ disqus:
 #hypercomments_id:
 
 # changyan
-changyan:
-  enable: false
-  appid: cytC6Yr16
-  appkey: prod_8755bbe31643b8b7b8d722cb7ec41c22
+# changyan: 
+#   enable: false
+#   appid: cytC6Yr16
+#   appkey: prod_8755bbe31643b8b7b8d722cb7ec41c22
 
 #gitment
-# gitment:
-#   enable: true
-#   githubID: Cody1988
-#   ropo: git@github.com:Cody1988/wuyaoyao_blog_gitment.git
-#   client_id: 1a6b39cf9ef6fa0f79a5
-#   client_secret: 93a7dfb9101f89ff3d8d53a1af744d822a96f096
-#   lazy: true
+gitment: 
+  enable: true
+  githubID: Cody1988
+  repo: wuyaoyao_blog_gitment
+  ClientID: 1d894a668f8e718e46cb
+  ClientSecret: e184cc740502afc3151faeeaff6487656b63a272
+  lazy: false
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
