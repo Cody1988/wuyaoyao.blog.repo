@@ -8,7 +8,7 @@
    {% if not theme.gitment.lazy %}
        <script type="text/javascript">
            var gitment = new Gitment({
-               id: '<%= page.title %>', 
+               id: document.title, 
                owner: '{{owner}}',
                repo: '{{repo}}',
                oauth: {
