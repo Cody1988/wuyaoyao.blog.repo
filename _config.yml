@@ -80,3 +80,5 @@ deploy:
   type: git
   repo: git@github.com:Cody1988/Cody1988.github.io.git
   branch: master
+
+baidu_site_verification: gmbwimzBkP
