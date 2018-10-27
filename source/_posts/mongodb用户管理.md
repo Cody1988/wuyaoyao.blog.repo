@@ -11,6 +11,12 @@ tags:
 mongod
 ```
 
+后台启动
+
+```bash
+mongod --auth --fork --logpath /var/log/xxxx.log
+```
+
 # 启动客户端
 
 ```bash
